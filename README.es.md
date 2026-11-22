@@ -172,15 +172,15 @@ Consulta los detalles y la tarea sugerida de la semana 1 en la [Guía del progra
 
 ## Este repositorio y enlaces
 STALMAS es de código cerrado. Este repositorio es el lugar público para:
-- 🐞 **Reportar fallos:** [abre un issue](../../issues/new/choose) con la versión de la app y tu teléfono.
-- 💡 **Proponer ideas:** usa la plantilla de ideas o [Discussions](../../discussions).
-- 📦 **Seguir las versiones:** en [Releases](../../releases) y [CHANGELOG.md](CHANGELOG.md) verás qué cambia en cada una.
-- 🔒 **Problemas de seguridad:** repórtalos en privado; mira [SECURITY.md](SECURITY.md).
+- 🐞 **Reportar fallos:** [abre un issue](https://github.com/PeterMagno/stalmas/issues/new/choose) con la versión de la app y tu teléfono.
+- 💡 **Proponer ideas:** usa la plantilla de ideas o [Discussions](https://github.com/PeterMagno/stalmas/discussions).
+- 📦 **Seguir las versiones:** en [Releases](https://github.com/PeterMagno/stalmas/releases) y [CHANGELOG.md](CHANGELOG.md) verás qué cambia en cada una.
+- 🔒 **Problemas de seguridad:** repórtalos en privado; mira [SECURITY.es.md](SECURITY.es.md).
 
 Documentos del repositorio y comunidad:
 - [Guía de demo](docs/demo.es.md) · [Free vs Pro](docs/free-vs-pro.es.md) · [FAQ](docs/faq.es.md) · [Privacidad](docs/privacy.es.md) · [Programa de testers](docs/testers.es.md)
-- [Hoja de ruta](ROADMAP.es.md) · [Changelog](CHANGELOG.md) · [Notas v1.0.0-beta](docs/releases/v1.0.0-beta.md)
-- [Cómo contribuir](CONTRIBUTING.es.md) · [Código de conducta](CODE_OF_CONDUCT.md) · [Soporte](SUPPORT.md) · [Manuales web](https://stalmas.app/es/docs/)
+- [Hoja de ruta](ROADMAP.es.md) · [Changelog](CHANGELOG.md) · [Notas v1.0.0-beta](docs/releases/v1.0.0-beta.es.md)
+- [Cómo contribuir](CONTRIBUTING.es.md) · [Código de conducta](CODE_OF_CONDUCT.md) · [Soporte](SUPPORT.es.md) · [Manuales web](https://stalmas.app/es/docs/)
 
 ## Requisitos
 Android 12 o superior y un servidor con Portainer o acceso SSH. La IA local necesita un teléfono de 64 bits con 6 a 8 GB de RAM según el modelo.

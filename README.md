@@ -172,9 +172,9 @@ Full details and Week 1 suggested task: [Tester program guide](docs/testers.md).
 
 ## This repository & links
 STALMAS is closed source. This repository is the public place to:
-- 🐞 **Report bugs:** [open an issue](../../issues/new/choose) with your app version and device.
-- 💡 **Suggest ideas:** use the idea template or [Discussions](../../discussions).
-- 📦 **Follow releases:** see [Releases](../../releases) and [CHANGELOG.md](CHANGELOG.md).
+- 🐞 **Report bugs:** [open an issue](https://github.com/PeterMagno/stalmas/issues/new/choose) with your app version and device.
+- 💡 **Suggest ideas:** use the idea template or [Discussions](https://github.com/PeterMagno/stalmas/discussions).
+- 📦 **Follow releases:** see [Releases](https://github.com/PeterMagno/stalmas/releases) and [CHANGELOG.md](CHANGELOG.md).
 - 🔒 **Security issues:** please report them privately; see [SECURITY.md](SECURITY.md).
 
 Documentation and community files:

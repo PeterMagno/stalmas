@@ -54,7 +54,7 @@ No. STALMAS es software comercial de código cerrado desarrollado por **Peter Ma
 
 ### 11. ¿Cómo reporto un fallo?
 Tienes dos formas:
-1. Abre un [Reporte de fallo](../../../issues/new?template=bug_report.yml) en este repositorio indicando versión de la app, teléfono, versión de Android y pasos para reproducirlo. **Nunca pegues contraseñas, tokens de API, llaves SSH, IPs reales ni dominios privados.**
+1. Abre un [Reporte de fallo](https://github.com/PeterMagno/stalmas/issues/new?template=bug_report.yml) en este repositorio indicando versión de la app, teléfono, versión de Android y pasos para reproducirlo. **Nunca pegues contraseñas, tokens de API, llaves SSH, IPs reales ni dominios privados.**
 2. Desde la propia app, ve a **Ajustes → Acerca de y legal → Reportar un problema**. STALMAS prepara un borrador revisable hacia `report@stalmas.app` con los datos sensibles ocultos automáticamente.
 
 ### 12. ¿Cómo pido borrar mis datos?

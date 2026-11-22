@@ -11,7 +11,7 @@ Before launching publicly on Google Play, STALMAS needs a closed test of **at le
 ## What is asked
 - A phone running **Android 12 or later** and a **Google account** (used on Google Play).
 - Install STALMAS from the closed-test opt-in link and use it for **at least 14 days**.
-- Share **at least 2 bugs or ideas** (on [GitHub](../../../issues/new/choose) / [Discussions](../../../discussions), or from **Settings → About & legal → Report a problem** inside the app).
+- Share **at least 2 bugs or ideas** (on [GitHub](https://github.com/PeterMagno/stalmas/issues/new/choose) / [Discussions](https://github.com/PeterMagno/stalmas/discussions), or from **Settings → About & legal → Report a problem** inside the app).
 
 ## Dates & sign-up
 - **Sign-up page:** [stalmas.app/en/testers/](https://stalmas.app/en/testers/)
@@ -23,7 +23,7 @@ Before launching publicly on Google Play, STALMAS needs a closed test of **at le
 - **All tester emails and the tester list are deleted at the latest 30 days after the test ends** (or earlier if you email `support@stalmas.app`). Full details: [stalmas.app/en/privacy/#testers](https://stalmas.app/en/privacy/#testers).
 
 ## What to do during the 14 days
-- Expect **2–3 updates** on the closed track during the test, with release notes published in [Releases](../../../releases) and `docs/releases/`.
+- Expect **2–3 updates** on the closed track during the test, with release notes published in [Releases](https://github.com/PeterMagno/stalmas/releases) and `docs/releases/`.
 - Keep the app installed and try real tasks or the demo server. We will also send a reminder halfway through with a quick check.
 
 ### Suggested Week 1 task

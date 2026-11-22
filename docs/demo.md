@@ -47,4 +47,4 @@ Try STALMAS without exposing your own infrastructure. We provide a public Portai
    - On **Free**, open **Logs**, copy the error lines and paste them into the AI chat.
    - *Tip:* Cloud AI uses your own Gemini API key (**Settings → AI Integration**). With Pro on a compatible 64-bit phone (6–8 GB RAM), you can also download a local Gemma 4 model and run the analysis completely offline.
 
-Found something unexpected or have a suggestion? Check [How to contribute](../CONTRIBUTING.md) or [open an issue](../../../issues/new/choose).
+Found something unexpected or have a suggestion? Check [How to contribute](../CONTRIBUTING.md) or [open an issue](https://github.com/PeterMagno/stalmas/issues/new/choose).

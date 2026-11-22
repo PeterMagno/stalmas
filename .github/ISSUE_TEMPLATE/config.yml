@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: ❓ Questions and help / Preguntas y ayuda
+  - name: ❓ Questions and help
     url: https://github.com/PeterMagno/stalmas/discussions
-    about: Ask in Discussions. / Pregunta en Discussions.
-  - name: 📘 Guides / Manuales
+    about: Ask in Discussions.
+  - name: 📘 Guides
     url: https://stalmas.app/en/docs/
-    about: How to use every feature. / Cómo usar cada función.
-  - name: 🔒 Security report / Reporte de seguridad
-    url: https://github.com/PeterMagno/stalmas/blob/main/SECURITY.md
-    about: Please do not open public issues for vulnerabilities. / No abras issues públicos para vulnerabilidades.
+    about: How to use every feature.
+  - name: 🔒 Security report
+    url: https://github.com/PeterMagno/stalmas/security/policy
+    about: Please do not open public issues for vulnerabilities.

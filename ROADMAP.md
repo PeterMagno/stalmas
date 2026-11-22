@@ -13,5 +13,5 @@ STALMAS follows a phased release plan without fixed dates or unshipped feature p
 - Delivery of lifetime STALMAS Pro promo codes to testers who completed the 14-day test and shared at least 2 bugs or ideas.
 
 ## 3. After launch
-- **Ideas are prioritized based on what you vote for in [Discussions → Ideas](../../discussions).**
+- **Ideas are prioritized based on what you vote for in [Discussions → Ideas](https://github.com/PeterMagno/stalmas/discussions).**
 - Open a topic in **Ideas** or vote with 👍 on existing proposals to help shape what comes next.

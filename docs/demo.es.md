@@ -47,4 +47,4 @@ Prueba STALMAS sin poner tus propias credenciales ni exponer tus servidores. Ofr
    - En **Free**, entra en **Logs**, copia las líneas de error y pégalas en el chat de la IA.
    - *Consejo:* La IA en la nube usa tu propia clave de API de Gemini (**Ajustes → Integración con IA**). Con Pro, en un teléfono compatible de 64 bits (6–8 GB de RAM), también puedes descargar un modelo local Gemma 4 y analizar sin conexión.
 
-¿Encontraste algún fallo o tienes una idea? Mira [Cómo contribuir](../CONTRIBUTING.es.md) o [abre un issue](../../../issues/new/choose).
+¿Encontraste algún fallo o tienes una idea? Mira [Cómo contribuir](../CONTRIBUTING.es.md) o [abre un issue](https://github.com/PeterMagno/stalmas/issues/new/choose).

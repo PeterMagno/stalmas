@@ -9,8 +9,8 @@ STALMAS es de código cerrado, por lo que no se aceptan *pull requests* de códi
 > ⚠️ **Nunca pegues contraseñas, tokens de API, llaves SSH, direcciones IP reales ni dominios privados** en issues públicos ni en capturas de pantalla.
 
 Antes de abrir un reporte:
-1. Revisa [Issues](../../issues) por si el fallo ya está reportado.
-2. Abre un [Reporte de fallo](../../issues/new?template=bug_report.yml) e incluye:
+1. Revisa [Issues](https://github.com/PeterMagno/stalmas/issues) por si el fallo ya está reportado.
+2. Abre un [Reporte de fallo](https://github.com/PeterMagno/stalmas/issues/new?template=bug_report.yml) e incluye:
    - **Versión de la app** (**Ajustes → Acerca de y legal**);
    - **Modelo de teléfono y versión de Android**;
    - **Área** (Portainer, Terminal SSH, Asistente de IA, Vigilancia/widgets, Respaldo/ajustes);
@@ -21,13 +21,13 @@ Antes de abrir un reporte:
 
 ## 2. Proponer ideas
 
-- Propón mejoras o funciones nuevas en [Discussions → Ideas](../../discussions) o usando la [plantilla de ideas](../../issues/new?template=idea.yml).
+- Propón mejoras o funciones nuevas en [Discussions → Ideas](https://github.com/PeterMagno/stalmas/discussions) o usando la [plantilla de ideas](https://github.com/PeterMagno/stalmas/issues/new?template=idea.yml).
 - Explica qué problema resuelve, cómo te gustaría que funcionara y cómo lo haces hoy.
 - **Vota con 👍** en las ideas ya publicadas en **Discussions → Ideas**: después del lanzamiento, las ideas se priorizan con vuestros votos.
 
 ## 3. Responder dudas
 
-- Ayuda a otros usuarios respondiendo preguntas en [Discussions → Help](../../discussions).
+- Ayuda a otros usuarios respondiendo preguntas en [Discussions → Help](https://github.com/PeterMagno/stalmas/discussions).
 
 ## 4. Traducciones
 
@@ -35,5 +35,5 @@ Antes de abrir un reporte:
 
 ## 5. Seguridad y conducta
 
-- **No** reportes vulnerabilidades de seguridad en issues públicos; sigue [SECURITY.md](SECURITY.md).
+- **No** reportes vulnerabilidades de seguridad en issues públicos; sigue [SECURITY.es.md](SECURITY.es.md).
 - La participación en este repositorio se rige por el [Código de conducta](CODE_OF_CONDUCT.md).

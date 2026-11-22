@@ -3,7 +3,7 @@
 All notable changes to STALMAS are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
-Bilingual release notes for testers: [v1.0.0-beta](docs/releases/v1.0.0-beta.md).
+Release notes for testers: [v1.0.0-beta](docs/releases/v1.0.0-beta.md) ([Español](docs/releases/v1.0.0-beta.es.md)).
 
 ## [1.0.0-beta] — closed testing
 

@@ -1,22 +1,22 @@
 name: 💡 Idea
-description: Suggest an improvement or a new feature. / Propón una mejora o una función nueva.
+description: Suggest an improvement or a new feature.
 labels: ["idea"]
 body:
   - type: textarea
     id: problem
     attributes:
-      label: What problem would it solve? / ¿Qué problema resolvería?
-      placeholder: When I ..., I can't ... / Cuando ..., no puedo ...
+      label: What problem would it solve?
+      placeholder: When I ..., I can't ...
     validations:
       required: true
   - type: textarea
     id: proposal
     attributes:
-      label: How would you like it to work? / ¿Cómo te gustaría que funcionara?
+      label: How would you like it to work?
     validations:
       required: true
   - type: textarea
     id: workaround
     attributes:
-      label: How do you do it today? / ¿Cómo lo haces hoy?
-      description: For example, in the Portainer web UI or over SSH. / Por ejemplo, en la web de Portainer o por SSH.
+      label: How do you do it today?
+      description: For example, in the Portainer web UI or over SSH.
