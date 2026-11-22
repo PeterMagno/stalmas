@@ -1,0 +1,59 @@
+name: 🐞 Bug report / Reportar un fallo
+description: Something does not work as expected. / Algo no funciona como esperabas.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping! **Do not paste passwords, tokens, IPs or domains of your servers.**
+        ¡Gracias por ayudar! **No pegues contraseñas, tokens, IPs ni dominios de tus servidores.**
+        Tip: in the app, Settings → About & legal → "Report a problem" prepares a report with private data hidden.
+  - type: input
+    id: version
+    attributes:
+      label: App version / Versión de la app
+      description: Settings → About & legal
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone and Android version / Teléfono y versión de Android
+      placeholder: Pixel 8, Android 15
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area / Área
+      options:
+        - Portainer (containers, stacks, logs)
+        - SSH terminal
+        - AI assistant
+        - Monitoring / widgets
+        - Backup / settings
+        - Other / Otra
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Pasos para reproducirlo
+      placeholder: |
+        1. Open ...
+        2. Tap ...
+        3. See ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect? / ¿Qué esperabas?
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or extra context / Capturas o contexto
+      description: Hide private data before attaching. / Oculta los datos privados antes de adjuntar.

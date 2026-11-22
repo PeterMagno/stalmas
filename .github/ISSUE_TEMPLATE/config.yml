@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ❓ Questions and help / Preguntas y ayuda
+    url: https://github.com/OWNER/stalmas/discussions
+    about: Ask in Discussions. / Pregunta en Discussions.
+  - name: 📘 Guides / Manuales
+    url: https://stalmas.app/en/docs/
+    about: How to use every feature. / Cómo usar cada función.
+  - name: 🔒 Security report / Reporte de seguridad
+    url: https://github.com/OWNER/stalmas/blob/main/SECURITY.md
+    about: Please do not open public issues for vulnerabilities. / No abras issues públicos para vulnerabilidades.
