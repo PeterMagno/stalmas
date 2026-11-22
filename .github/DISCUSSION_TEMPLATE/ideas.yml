@@ -1,0 +1,28 @@
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest an improvement or a new feature. Vote on ideas you want to see with 👍!
+        Propón una mejora o una función nueva. ¡Vota con 👍 las ideas que quieras ver!
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / Problema
+      description: What problem would this solve? / ¿Qué problema resolvería?
+      placeholder: When I ..., I can't ... / Cuando ..., no puedo ...
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal / Propuesta
+      description: How would you like it to work? / ¿Cómo te gustaría que funcionara?
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: How do you do it today? / ¿Cómo lo haces hoy?
+      description: For example, in the Portainer web UI or over SSH. / Por ejemplo, en la web de Portainer o por SSH.

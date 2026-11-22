@@ -1,0 +1,29 @@
+title: "[Help] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Need help using STALMAS? **Never paste passwords, tokens, private keys, real IPs or domains.**
+        ¿Necesitas ayuda con STALMAS? **Nunca pegues contraseñas, tokens, llaves privadas, IPs reales ni dominios.**
+  - type: input
+    id: version
+    attributes:
+      label: App version / Versión de la app
+      description: Settings → About & legal / Ajustes → Acerca de y legal
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone and Android version / Teléfono y versión de Android
+      placeholder: Pixel 8, Android 15
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to do? / ¿Qué intentas hacer?
+      description: Describe what you tried and where you got stuck. / Describe qué intentaste y dónde te quedaste bloqueado.
+    validations:
+      required: true
