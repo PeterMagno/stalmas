@@ -21,13 +21,13 @@ Before opening a report:
 
 ## 2. Propose ideas
 
-- Share feature ideas in [Discussions → Ideas](https://github.com/PeterMagno/stalmas/discussions) or open an [Idea issue](https://github.com/PeterMagno/stalmas/issues/new?template=idea.yml).
+- Share feature ideas in [Discussions → Ideas](https://github.com/PeterMagno/stalmas/discussions/categories/ideas) or open an [Idea issue](https://github.com/PeterMagno/stalmas/issues/new?template=idea.yml).
 - Describe the problem you want to solve, how you would like it to work, and how you handle it today.
 - **Vote with 👍** on existing ideas in **Discussions → Ideas**: post-launch ideas are prioritized based on community votes.
 
 ## 3. Help other users
 
-- Answer questions and share tips in [Discussions → Help](https://github.com/PeterMagno/stalmas/discussions).
+- Answer questions and share tips in [Discussions → Q&A](https://github.com/PeterMagno/stalmas/discussions/categories/q-a).
 
 ## 4. Translations
 

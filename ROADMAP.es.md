@@ -13,5 +13,5 @@ STALMAS avanza por fases, sin fechas cerradas ni promesas de funciones que aún 
 - Entrega de los códigos promocionales de STALMAS Pro de por vida a quienes completaron los 14 días de prueba y aportaron al menos 2 fallos o ideas.
 
 ## 3. Después del lanzamiento
-- **Las ideas se priorizan con lo que votéis en [Discussions → Ideas](https://github.com/PeterMagno/stalmas/discussions).**
+- **Las ideas se priorizan con lo que votéis en [Discussions → Ideas](https://github.com/PeterMagno/stalmas/discussions/categories/ideas).**
 - Abre una propuesta en **Ideas** o vota con 👍 las existentes para ayudar a decidir qué viene después.

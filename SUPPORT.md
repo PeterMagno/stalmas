@@ -4,7 +4,7 @@
 
 STALMAS has no user accounts and no central servers. Here is where to get help depending on what you need:
 
-- **Questions & troubleshooting with the community:** ask in [Discussions → Help](https://github.com/PeterMagno/stalmas/discussions). Never paste passwords, API tokens, private keys, real IPs or domains.
+- **Questions & troubleshooting with the community:** ask in [Discussions → Q&A](https://github.com/PeterMagno/stalmas/discussions/categories/q-a). Never paste passwords, API tokens, private keys, real IPs or domains.
 - **Guides & documentation:**
   - [Demo guide](docs/demo.md) · [FAQ](docs/faq.md) · [Free vs Pro](docs/free-vs-pro.md) · [Privacy](docs/privacy.md)
   - Full manuals on the website: [stalmas.app/en/docs/](https://stalmas.app/en/docs/)

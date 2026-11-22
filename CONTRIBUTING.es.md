@@ -21,13 +21,13 @@ Antes de abrir un reporte:
 
 ## 2. Proponer ideas
 
-- Propón mejoras o funciones nuevas en [Discussions → Ideas](https://github.com/PeterMagno/stalmas/discussions) o usando la [plantilla de ideas](https://github.com/PeterMagno/stalmas/issues/new?template=idea.yml).
+- Propón mejoras o funciones nuevas en [Discussions → Ideas](https://github.com/PeterMagno/stalmas/discussions/categories/ideas) o usando la [plantilla de ideas](https://github.com/PeterMagno/stalmas/issues/new?template=idea.yml).
 - Explica qué problema resuelve, cómo te gustaría que funcionara y cómo lo haces hoy.
 - **Vota con 👍** en las ideas ya publicadas en **Discussions → Ideas**: después del lanzamiento, las ideas se priorizan con vuestros votos.
 
 ## 3. Responder dudas
 
-- Ayuda a otros usuarios respondiendo preguntas en [Discussions → Help](https://github.com/PeterMagno/stalmas/discussions).
+- Ayuda a otros usuarios respondiendo preguntas en [Discussions → Q&A](https://github.com/PeterMagno/stalmas/discussions/categories/q-a).
 
 ## 4. Traducciones
 

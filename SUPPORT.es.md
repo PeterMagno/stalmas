@@ -4,7 +4,7 @@
 
 STALMAS no tiene cuentas de usuario ni servidores centrales. Según lo que necesites, puedes acudir a:
 
-- **Dudas y ayuda con la comunidad:** pregunta en [Discussions → Help](https://github.com/PeterMagno/stalmas/discussions). Nunca pegues contraseñas, tokens de API, llaves privadas, IPs reales ni dominios.
+- **Dudas y ayuda con la comunidad:** pregunta en [Discussions → Q&A](https://github.com/PeterMagno/stalmas/discussions/categories/q-a). Nunca pegues contraseñas, tokens de API, llaves privadas, IPs reales ni dominios.
 - **Guías y manuales:**
   - [Guía de demo](docs/demo.es.md) · [FAQ](docs/faq.es.md) · [Free vs Pro](docs/free-vs-pro.es.md) · [Privacidad](docs/privacy.es.md)
   - Manuales completos en la web: [stalmas.app/es/docs/](https://stalmas.app/es/docs/)

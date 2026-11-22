@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: ❓ Questions and help
-    url: https://github.com/PeterMagno/stalmas/discussions
-    about: Ask in Discussions.
+    url: https://github.com/PeterMagno/stalmas/discussions/categories/q-a
+    about: Ask in Discussions → Q&A.
   - name: 📘 Guides
     url: https://stalmas.app/en/docs/
     about: How to use every feature.
