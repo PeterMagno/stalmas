@@ -111,8 +111,7 @@
 | Temas OLED, Catppuccin y de marca (STALMAS) | Candado | Sí |
 | Bloqueo con PIN y biometría | Sí | Sí |
 | Respaldo y sincronización cifrados (AES-256) en Google Drive | Candado | Sí |
-| Logcat de la app | Sí | Sí |
-| Reportar un problema / recogida de errores | Sí | Sí |
+| Centro de informes: fallos legibles y agrupados, detalle técnico, «Preguntar a la IA qué significa» y envío revisable por correo | Sí | Sí |
 | Acerca de, licencias de código abierto, avisos legales y soporte | Sí | Sí |
 | Apoyar el desarrollo (propina opcional, 3 importes; no desbloquea funciones) | — | Sí |
 

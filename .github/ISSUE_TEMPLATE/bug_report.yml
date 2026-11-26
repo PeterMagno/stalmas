@@ -7,13 +7,13 @@ body:
       value: |
         Thanks for helping! **Do not paste passwords, tokens, IPs or domains of your servers.**
         You can write in English or Spanish.
-        Tip: in the app, Settings → About & legal → "Report a problem" prepares a report with private data hidden.
+        Tip: in the app, Settings → About & legal → "Reports" prepares a report with private data hidden.
   - type: input
     id: version
     attributes:
       label: App version
       description: Settings → About & legal
-      placeholder: 1.0.0
+      placeholder: 1.0.0-beta.2
     validations:
       required: true
   - type: input

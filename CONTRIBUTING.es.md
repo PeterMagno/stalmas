@@ -17,7 +17,7 @@ Antes de abrir un reporte:
    - **Pasos para reproducirlo** y **qué esperabas que pasara**;
    - **Capturas**, ocultando antes cualquier dato privado.
 
-**Desde la propia app:** también puedes ir a **Ajustes → Acerca de y legal → Reportar un problema**. STALMAS prepara un borrador de correo hacia `report@stalmas.app` con los errores técnicos recientes (y metadatos del modelo local si usas IA local), ocultando IPs, dominios, tokens y contraseñas para que lo revises antes de enviarlo.
+**Desde la propia app:** también puedes ir a **Ajustes → Acerca de y legal → Informes**. STALMAS prepara un borrador de correo hacia `report@stalmas.app` con los errores técnicos recientes (y metadatos del modelo local si usas IA local), ocultando IPs, dominios, tokens y contraseñas para que lo revises antes de enviarlo.
 
 ## 2. Proponer ideas
 

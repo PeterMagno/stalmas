@@ -111,8 +111,7 @@
 | OLED, Catppuccin and STALMAS brand themes | Locked | Yes |
 | PIN and biometric lock | Yes | Yes |
 | Encrypted backup & sync (AES-256) to Google Drive | Locked | Yes |
-| App Logcat viewer | Yes | Yes |
-| Report a problem / error collection | Yes | Yes |
+| Reports center: readable grouped errors, technical detail, "Ask the AI what it means" and reviewable email | Yes | Yes |
 | About, open-source licenses, legal notices and support | Yes | Yes |
 | Support development (optional tip, 3 amounts; unlocks no features) | — | Yes |
 

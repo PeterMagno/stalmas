@@ -11,7 +11,7 @@ Before launching publicly on Google Play, STALMAS needs a closed test of **at le
 ## What is asked
 - A phone running **Android 12 or later** and a **Google account** (used on Google Play).
 - Install STALMAS from the closed-test opt-in link and use it for **at least 14 days**.
-- Share **at least 2 bugs or ideas** (on [GitHub](https://github.com/PeterMagno/stalmas/issues/new/choose) / [Discussions](https://github.com/PeterMagno/stalmas/discussions), or from **Settings → About & legal → Report a problem** inside the app).
+- Share **at least 2 bugs or ideas** (on [GitHub](https://github.com/PeterMagno/stalmas/issues/new/choose) / [Discussions](https://github.com/PeterMagno/stalmas/discussions), or from **Settings → About & legal → Reports** inside the app).
 
 ## Dates & sign-up
 - **Sign-up page:** [stalmas.app/en/testers/](https://stalmas.app/en/testers/)

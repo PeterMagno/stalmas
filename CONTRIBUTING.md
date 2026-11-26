@@ -17,7 +17,7 @@ Before opening a report:
    - **Steps to reproduce** and **what you expected**;
    - **Screenshots**, with any private data hidden first.
 
-**From inside the app:** you can also open **Settings → About & legal → Report a problem**. STALMAS prepares an email draft to `report@stalmas.app` with recent technical errors (and local AI model metadata if applicable), hiding IPs, domains, tokens and passwords so you can review it before sending.
+**From inside the app:** you can also open **Settings → About & legal → Reports**. STALMAS prepares an email draft to `report@stalmas.app` with recent technical errors (and local AI model metadata if applicable), hiding IPs, domains, tokens and passwords so you can review it before sending.
 
 ## 2. Propose ideas
 

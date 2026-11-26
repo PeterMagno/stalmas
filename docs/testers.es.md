@@ -11,7 +11,7 @@ Antes de publicar en producción en Google Play, necesitamos completar una prueb
 ## Qué se pide
 - Un teléfono con **Android 12 o superior** y una **cuenta de Google** (la que usas en Google Play).
 - Instalar STALMAS desde el enlace de la prueba cerrada y usarla durante **al menos 14 días**.
-- Contar **al menos 2 fallos o ideas** (en [GitHub](https://github.com/PeterMagno/stalmas/issues/new/choose) / [Discussions](https://github.com/PeterMagno/stalmas/discussions), o desde **Ajustes → Acerca de y legal → Reportar un problema** en la app).
+- Contar **al menos 2 fallos o ideas** (en [GitHub](https://github.com/PeterMagno/stalmas/issues/new/choose) / [Discussions](https://github.com/PeterMagno/stalmas/discussions), o desde **Ajustes → Acerca de y legal → Informes** en la app).
 
 ## Fechas y cómo apuntarse
 - **Formulario en la web:** [stalmas.app/es/testers/](https://stalmas.app/es/testers/)

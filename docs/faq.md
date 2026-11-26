@@ -55,7 +55,7 @@ No. STALMAS is closed-source commercial software by **Peter Magno**. This public
 ### 11. How do I report a bug?
 Two ways:
 1. Open a [Bug report](https://github.com/PeterMagno/stalmas/issues/new?template=bug_report.yml) in this repository with your app version, device, Android version and steps to reproduce. **Never paste passwords, API tokens, SSH keys, real IPs or private domains.**
-2. Inside the app, go to **Settings → About & legal → Report a problem**. STALMAS prepares a reviewable email draft to `report@stalmas.app` with sensitive data automatically hidden.
+2. Inside the app, go to **Settings → About & legal → Reports**. STALMAS prepares a reviewable email draft to `report@stalmas.app` with sensitive data automatically hidden.
 
 ### 12. How do I request deletion of my data?
 There is no account or central database to delete:
